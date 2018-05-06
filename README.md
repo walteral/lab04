@@ -2,7 +2,7 @@
 
 **geoviz type**: Area Chart | **last updated**: 06 MaY 18 | **applicable data types**: svg, jpg, html | **Contributors:** [Alex Walters](https://github.com/walteral/)
 
-![Area Chart] (img/image.jpeg)
+![Area Chart] (img/image.JPG)
 
 A short introduction to this geoviz module.
 
