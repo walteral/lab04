@@ -106,7 +106,7 @@ The data being displayed is the cumulative percentage of forest loss within Guin
 
 
 ## Acknowledgement
-I would like to acknowledge Mike Bostock for creating the D3 javascript library.
+I would like to acknowledge Mike Bostock for creating the D3 javascript library. 
 
 
 ## References
